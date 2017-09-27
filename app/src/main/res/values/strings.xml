@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncLoading</string>
+    <string name="home_edittext_hint">请输入宝贝关键字</string>
+</resources>
